@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DogApi</string>
+    <string name="serach">Serach!</string>
+
+    <string-array name="myarray">
+        <item>akita</item>
+        <item>English Hound</item>
+    </string-array>
+
+</resources>
